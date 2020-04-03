@@ -1,6 +1,6 @@
 # project-SDLC
 # FlowChart
-![flowchart image](https://github.com/singh98035/project-SDLC/blob/master/Untitled%20Diagram.jpg).-
+![flowchart image](https://github.com/singh98035/project-SDLC/blob/master/Untitled%20Diagram.JPG).
 
 
 
